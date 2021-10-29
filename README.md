@@ -1,4 +1,4 @@
-Hi, I’m Anuj Gupta. A Data Science learner at Univ of Toronto and iNeuron.
+Hi, I’m Anuj, a Data Science learner at Univ of Toronto and iNeuron.
 
 I love to explore on the value-add that existing data can bring to the organizations that own the data. 
 
